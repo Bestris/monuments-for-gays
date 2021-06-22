@@ -1,0 +1,19 @@
+body {
+	margin: 0 auto;
+	background-color: #202020;
+}
+a {
+	text-decoration: none;
+}
+#header {
+	background-color: #404040;
+}
+#main {
+	background-color: #808080;
+}
+#contacts {
+	background-color: #b0b0b0;
+}
+#footer {
+	background-color: #f0f0f0;
+}
